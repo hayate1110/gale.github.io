@@ -10,6 +10,6 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-## テストで記事を書いてみた。
+## WHAT A NEW POST!!
 
-これはテスト投稿だよ。
+TEST TEST TEST DAMN!!
