@@ -14,5 +14,5 @@ sections:
 design:
   background:
     image:
-      filename: bg-hue.svg
+      filename: bg.svg
 ---
