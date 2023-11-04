@@ -11,4 +11,8 @@ sections:
       filters:
         folders:
           - post
+design:
+  background:
+    image:
+      filename: bg-hue.svg
 ---
