@@ -1,7 +1,7 @@
 ---
 title: 💪 第2回Gale道場~みんなで踊ろう!~
 summary: 第2回Gale道場~みんなで踊ろう!~を開催します。
-date: 2023-10-25
+date: 2023-11-04
 tags:
   - Gale
   - Gale道場
