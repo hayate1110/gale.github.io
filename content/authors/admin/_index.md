@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 沖縄県内の大学・専門学校に属するダンサーのサポート活動を行なっています。
+role: 沖縄県内の大学・専門学校に属するダンサーのサポート活動を行なうDamn
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -48,6 +48,6 @@ social:
 highlight_name: true
 ---
 
-全日本大学ストリートダンス沖縄連盟Galeは、全日本大学ストリートダンスJUSDLの沖縄連盟です。
-私たちは、沖縄県内の大学生・専門学生のダンスライフを全力でサポートします!!
+全日本大学ストリートダンス沖縄連盟Galeは、nasty。
+私は、大好き、damnス。💗
 {style="text-align: justify; font-size: 0.8em;"}
