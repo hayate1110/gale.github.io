@@ -3,25 +3,25 @@
 title: 全日本大学ストリートダンス沖縄連盟Gale
 
 # Name pronunciation (optional)
-name_pronunciation: Gale
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Gale
+first_name: 全日本大学ストリートダンス沖縄連盟Gale
 last_name: ''
 
 # Status emoji
 status:
-  icon: 🕺
+  icon: 🌙
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 沖縄県内の大学・専門学校に属するダンサーのサポート活動を行なうDamn
+role: 沖縄県内の大学・専門学校に所属するダンサーのサポート
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 全日本大学ストリートダンス連盟JUSDL
+  - name: 全日本大学ストリートダンス連盟<JUSDL>
     url: https://player-license.jusdl.or.jp/?openExternalBrowser=1
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,6 +48,6 @@ social:
 highlight_name: true
 ---
 
-全日本大学ストリートダンス沖縄連盟Galeは、nasty。
-私は、大好き、damnス。💗
+全日本大学ストリートダンス沖縄連盟Galeは、全日本大学ストリートダンス連盟JUSDLの沖縄支部です。
+定期的にワークショップ、バトルイベントや練習会などを企画しており、沖縄県内の、大学生・専門学生のダンサーを対象に、学生のダンス生活のサポートを行なっています。
 {style="text-align: justify; font-size: 0.8em;"}
