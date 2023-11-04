@@ -45,7 +45,7 @@ locale:
 # Site features
 features:
   syntax_highlighter:
-    theme_light: github-light
+    theme_light: Forest
     theme_dark: github-dark
   math:
     enable: false
