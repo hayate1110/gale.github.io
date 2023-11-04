@@ -11,13 +11,13 @@ last_name: ''
 
 # Status emoji
 status:
-  icon: 🩰
+  icon: 🕺
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 全日本大学ストリートダンス連盟JUSDL_沖縄連盟Gale
+role: 沖縄県内の大学・専門学校に属するダンサーのサポート活動を行なっています。
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://player-license.jusdl.or.jp/?openExternalBrowser=1
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,10 +40,6 @@ social:
   - icon: instagram
     icon_pack: wc
     link: https://www.instagram.com/jusdl_okinawa.gale/?img_index=1
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: cv
-    icon_pack: wc
-    link: uploads/resume.pdf
   - icon: rss
     icon_pack: wc
     link: ./post/index.xml
@@ -52,7 +48,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+全日本大学ストリートダンス沖縄連盟Galeは、全日本大学ストリートダンスJUSDLの沖縄連盟です。
+私たちは、沖縄県内の大学生・専門学生のダンスライフを全力でサポートします!!
 {style="text-align: justify; font-size: 0.8em;"}
